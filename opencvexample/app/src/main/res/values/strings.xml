@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">opencvexample</string>
+    <string name="ocr_result_tip">인식 결과는 여기에 나타납니다.</string>
+
+    <string name="app_about">Abort</string>
+    <string name="reg_title">\nRecognition results:</string>
+    <string name="reg_hint">Press the button to recognize 7-segments digitals\n</string>
+
+
+</resources>
